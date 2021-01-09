@@ -1,2 +1,2 @@
-# Customer_Console_Application
-a java console application for customer details
+# Customer_Application
+a java JOptionPane application for customer details
